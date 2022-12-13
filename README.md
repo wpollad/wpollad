@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, Я Владислав Пономарев</h1>
+<h1 align="center">Привет 👋, я Владислав Пономарев</h1>
 <h3 align="center">Начинающий Front-end разработчик.</h3>
 
 - 🔭 Сейчас я работаю над проектом [mindcall](https://github.com/wpollad/mindcall)
