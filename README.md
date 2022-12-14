@@ -7,7 +7,7 @@
 
 - 👨‍💻 Все мои работы можно посмотреть тут [https://wpollad.github.io/portfolio/](https://wpollad.github.io/portfolio/)
 
-- 📫 Почта **wpolladd@yandex.ru**
+- 📫 Почта wpolladd@yandex.ru
 
 <h3 align="left">Для связи:</h3>
 <a align="left" href="t.me/telergam">
